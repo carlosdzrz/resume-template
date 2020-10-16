@@ -1,19 +1,58 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Senior Automation Engineer
+- company: INETUM
+  position: Senior Automation Engineer
+  duration: Dec, 2019 &mdash; Present
+  summary: Automation Engineer. Manage and ensure that ticket queues are being properly addressed in the time outlined by SLA’s. ITIL v3 methodology. <ul class="resume-item-list">
+          <li>Design disaster recovery plans using virtualization VMware HA and FT, and Microsoft Hyper-V cluster 2019.</li>
+          <li>Design and managing Microsoft Hyper-V and VMware infrastructure. Troubleshooting of Hyper-V 2012, 2016 and 2019 cluster and VMware vSphere 6.0</li>
+          <li>Developed Powershell, and PowerCLI Automation scripts for Windows and VMware Administration and reporting tasks</li>
+          <li>Deploy VMware infrastructure with Terraform (IaC)</li>
+          <li>Reporting scripting to Hyper-V and VMware production environments with PowerShell and powerCLI</li>
+          <li>Use PowerShell DSC, DSC Resources for VMware and Ansible to compliance</li>          
+          <li>Monitoring VMware infrastructure with InfluxDB, Telegraf and Grafana</li>
+          <li>Configure Hybrid Azure AD join to deploy Windows Hello for Business to set 2FA validation process</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Senior Virtualization Engineer
+- company: IECISA
+  position: Senior Virtualization Engineer
+  duration: Mar, 2017 &mdash; Dec, 2019
+  summary: Virtualization Engineer using Microsoft Hyper-V & VMware (SCVMM 2012, 2019 y VCSA 6.7). Manage and ensure that ticket queues are being properly addressed in the time outlined by SLA’s. ITIL v3 methodology. <ul class="resume-item-list">
+          <li>Migrate Active Directory Windows Server 2003 to Windows Server 2012</li>
+          <li>Administering Active Directory services, DNS and Failover DHCP</li>
+          <li>Design, managing and troubleshooting Remote Desktop Services (RDS) 2012 infrastructure (VDI & SH)</li>
+          <li>Developed PowerShell custom scripting reports, status health, automation of processes and HelpDesk utilities</li>
+          <li>Basic working knowledge of Microsoft SharePoint 2007 and 2010 and Microsoft SQL 2005, 2008 and 2016</li>
+          <li>Administering storage solutions Huawei Dorado V3 and fiber switches SNS series</li></ul>
 
+# Senior Systems Engineer
+- company: INDRA
+  position: Systems Engineer
+  duration: Jan, 2014 &mdash; Mar, 2017
+  summary: Systems Engineer. Manage and ensure that ticket queues are being properly addressed in the time outlined by SLA’s. ITIL v3 methodology. <ul class="resume-item-list">
+          <li>Design and managing Microsoft Exchange 2010</li>
+          <li>Installing, configuring and managing Microsoft Hyper-V Cluster 2008 and 2012</li>
+          <li>Administration of Active Directory services, DNS and Failover DHCP 2012</li>
+          <li>Design, managing and troubleshooting Remote Desktop Services (RDS) 2012 infrastructure (VDI & SH)</li>
+          <li>Basic working knowledge of Microsoft SharePoint 2007 and 2010 and Microsoft SQL 2005 and 2008</li>
+          <li>Developed PowerShell custom scripting</li>
+          <li>Administering storage solutions EMC VNX 5000 series</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# IT Specialist
+- company: INDRA
+  position: IT specialist
+  duration: Aug, 2011 &mdash; Jan, 2014
+  summary: IT specialist. <ul class="resume-item-list">
+          <li>Working as an IT specialist and management of micro-IT systems for AENA</li>
+          <li>Design corporate template to deploy in all workstations</li>
+          <li>Troubleshooting Microsoft Office 2003/2007/2010</li>
+          <li>Managing, configuring and troubleshooting ActiveSync devices and blackberry handhelds for VIP users</li>
+          <li>Managing DNS, DHCP and Active Directory objects. Scripting Windows PowerShell and VBscript</li></ul>
+
+# IT Operations
+- company: INDRA
+  position: IT Operations
+  duration: Oct, 2006 &mdash; Aug, 2011
+  summary: IT Operations. Provided level 1 support for the Aena users. <ul class="resume-item-list">
+          <li>Respond to requests for technical assistance in person, via phone, electronically</li>
+          <li>Diagnose and resolve technical hardware and software issues</li></ul>
