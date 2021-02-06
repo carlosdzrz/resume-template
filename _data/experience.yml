@@ -1,8 +1,17 @@
 # Jobs
 # Senior Automation Engineer
+- company: PLAIN CONCEPTS
+  position: Cloud Solutions Engineer
+  duration: Jan, 2021 &mdash; Present
+  summary: Design and Architecture and Engineering of Private, Public and Hybrid Cloud solutions based on Microsoft Technology. <ul class="resume-item-list">
+          <li>Helping enterprises to transform their business to the Cloud.</li>
+          <li>Developed Powershell and Python Automation scripts.</li>
+          <li>Deploy Azure infrastructure with Terraform (IaC)</li></ul>
+
+# Senior Automation Engineer
 - company: INETUM
   position: Senior Automation Engineer
-  duration: Dec, 2019 &mdash; Present
+  duration: May, 2019 &mdash; Jan, 2021
   summary: Automation Engineer. Manage and ensure that ticket queues are being properly addressed in the time outlined by SLA’s. ITIL v3 methodology. <ul class="resume-item-list">
           <li>Design disaster recovery plans using virtualization VMware HA and FT, and Microsoft Hyper-V cluster 2019.</li>
           <li>Design and managing Microsoft Hyper-V and VMware infrastructure. Troubleshooting of Hyper-V 2012, 2016 and 2019 cluster and VMware vSphere 6.0</li>
@@ -16,7 +25,7 @@
 # Senior Virtualization Engineer
 - company: IECISA
   position: Senior Virtualization Engineer
-  duration: Mar, 2017 &mdash; Dec, 2019
+  duration: Mar, 2017 &mdash; May, 2019
   summary: Virtualization Engineer using Microsoft Hyper-V & VMware (SCVMM 2012, 2019 y VCSA 6.7). Manage and ensure that ticket queues are being properly addressed in the time outlined by SLA’s. ITIL v3 methodology. <ul class="resume-item-list">
           <li>Migrate Active Directory Windows Server 2003 to Windows Server 2012</li>
           <li>Administering Active Directory services, DNS and Failover DHCP</li>
